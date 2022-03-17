@@ -7,6 +7,9 @@ public class UtilityClass {
 		Mytest test=new Mytest();
 	//	test.main(args);
 		//test.run();
+		
+		 System.out.println("new funtion added");
+		  System.out.println("new funtion added "+ 100+100);
 	}
 
 }
